@@ -1,0 +1,6 @@
+[submodule "TencentOS-tiny"]
+	path = TencentOS-tiny
+	url = https://github.com/OpenAtomFoundation/TencentOS-tiny
+[submodule "pico-sdk"]
+	path = pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk
