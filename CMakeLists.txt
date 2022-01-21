@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.20)
+﻿cmake_minimum_required(VERSION 3.20)
 
 # 实际使用最好用设定PICO_SDK_PATH和pico_sdk_import.cmake的方法进行初始化
 # 必须在peoject()之前设定
